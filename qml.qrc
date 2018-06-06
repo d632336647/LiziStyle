@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>Lizi1.qml</file>
+        <file>Test.qml</file>
+        <file>image/xx.png</file>
+        <file>image/bb.png</file>
+        <file>LiZi2.qml</file>
+        <file>image/rocket.png</file>
+    </qresource>
+</RCC>

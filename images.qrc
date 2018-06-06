@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/bb.ico</file>
+        <file>image/bb.png</file>
+    </qresource>
+</RCC>
